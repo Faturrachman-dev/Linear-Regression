@@ -55,14 +55,15 @@ You can install these libraries using pip:
 
 ```bash
 pip install torch pandas numpy
+```
 
 ## License
 This project is for educational purposes and does not include a specific license. Standard data usage ethics apply to the use of the
-'''
+```
 ResearchInformation3.csv
-'''
+```
 dataset. Please refer to the original dataset source for any specific license or usage terms.
 
 
 ## Contact
-Faturrachman - faturrachman@gmail.com
+Faturrachman - faturrachman6773@gmail.com
